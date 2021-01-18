@@ -1,3 +1,3 @@
 # Git Tutorial
 
-Hello programmers, Iam learning git & github. This is really awesome.
+Hello programmers, I am learning git & github. This is really awesome.
